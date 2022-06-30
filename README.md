@@ -11,5 +11,5 @@ Libraries used include:
 - Seaborn
 - Base64
 
-Deployment was done on Heroku via Github, you can view the app [here]()
+Deployment was done on Heroku via Github, you can view the app [here](https://basketball-explorer.herokuapp.com/)
 
